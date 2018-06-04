@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270643351350",
+    "firebase_url": "https://fir-test-f1344.firebaseio.com",
+    "project_id": "fir-test-f1344",
+    "storage_bucket": "fir-test-f1344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270643351350:android:62499c6b9771db8a",
+        "android_client_info": {
+          "package_name": "com.example.vicky.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270643351350-ke6ls8el1gdrs0ltr2ctnv6chaqcfpvs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270643351350-ke6ls8el1gdrs0ltr2ctnv6chaqcfpvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Nx6lBkIxwWlzYCdm2C1qsqvQ6QrAlEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
